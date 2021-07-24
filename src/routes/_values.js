@@ -2,7 +2,7 @@ let changeLog = [
   {
     date: "July 25, 2021",
     updates: [
-      'Added Arabic translation, thanks to Khaled Ahmed, can be accessed <a href="https://ar.pattern.monster">here</a>',
+      'Added Arabic translation, thanks to Khaled Ahmed, which can be accessed <a href="https://ar.pattern.monster">here</a>',
       'Removed the earlier changelog and added a new notification in the navigation bar to show the changelog',
     ],
   },
